@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 29 mar. 2023, 21:21:54
+    Author     : P3R3Z1T0
+*/
+
+body{
+    font-family: Arial, Tahoma, Calibri;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
